@@ -95,7 +95,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
           </div>
           
           <div className="mt-8 pt-8 border-t border-gray-800/50 text-center text-xs text-gray-600">
-            Built with client-side PDF generation for maximum privacy and security.
+            Contact: <a href="mailto:Timmy@stranerd.com" className="text-blue-400 hover:text-blue-300 transition-colors duration-300">Timmy@stranerd.com</a>
           </div>
         </div>
       </footer>
